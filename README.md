@@ -4,7 +4,7 @@ ENG
 - 🌱 I’m currently learning C# and I am studying Systems Engineering at the Universidad Abierta Interamericana (UAI).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with my email: lautaro.rojas02@gmai.com or with my Linkedin: www.linkedin.com/in/lautaro-rojas.
--     I also leave my resume in the repository: https://github.com/Lauthy02
+-     I also leave my resume in the repository: https://github.com/Lauthy02/Lauthy02
 
 ESP
 - 👋 Hola, soy @Lauthy02!!
@@ -12,7 +12,7 @@ ESP
 - 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
 - 💞️ I’m looking to collaborate on ...
 - 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmai.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas.
--     También les dejo mi curriculum vitae en el repositorio: https://github.com/Lauthy02
+-     También les dejo mi curriculum vitae en el repositorio: https://github.com/Lauthy02/Lauthy02
 <!---
 Lauthy02/Lauthy02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
