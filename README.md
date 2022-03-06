@@ -11,7 +11,6 @@ ESP
 - 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
 - 💞️ I’m looking to collaborate on ...
 - 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmai.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas.
-- 
 <!---
 Lauthy02/Lauthy02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
