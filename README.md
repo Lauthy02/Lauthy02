@@ -41,3 +41,4 @@ ESP
 ---
 
 ⭐️ [@Lautaro Rojas](https://github.com/Lauthy02)
+[Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
