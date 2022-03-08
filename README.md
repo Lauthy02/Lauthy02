@@ -15,7 +15,7 @@ ESP
 <h1></h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/lautaro-rojas">
+  <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
   </a>
 
