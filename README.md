@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with my email adress: lautaro.rojas02@gmai.com or with my Linkedin: www.linkedin.com/in/lautaro-rojas. I also leave my CV in the repository: https://github.com/Lauthy02/Lauthy02
 
-ESP
+<h1>ESP<h1>
 - 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
 - 👀 Estoy interesado en aprender en profundad C# y en como puedo aplicarlo en un puesto de trabajo que requiera de habilidades de programación.
 - 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
