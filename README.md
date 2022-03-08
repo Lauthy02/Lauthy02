@@ -1,4 +1,4 @@
-ENG
+<h1>ENG</h1>
 - 👋 Hi, I’m @Lauthy02 or you can call me Lautaro Rojas!!
 - 👀 I’m interested in learning C# in depth and how I can apply it in a job that requires programming skills.
 - 🌱 I’m currently learning C# and I am studying Systems Engineering at the Universidad Abierta Interamericana (UAI).
