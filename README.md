@@ -26,6 +26,14 @@ ESP
   <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Lautaro Rojas's WhatsApp" height="30" width="30">
   </a>
+  
+  <a href="https://t.me/Lauthy_02">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Lautaro Rojas's Telegram" height="30" width="30">
+  </a>
+  
+  <a href="lautaro.rojas02@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lautaro Rojas's Gmail" height="30" width="30">
+  </a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="Lauthy02 :: Profile Stats" /></p>
