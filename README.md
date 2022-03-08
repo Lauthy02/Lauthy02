@@ -22,9 +22,13 @@ ESP
   <a href="https://stackoverflow.com/users/18413052/lautaro-rojas">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Lautaro Rojas's Stack Overflow Profile" height="30" width="30">
   </a>
+  
+  <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Lautaro Rojas's WhatsApp" height="30" width="30">
+  </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="Lauthy02 :: Profile Stats" /></p>
 
 ---
 
