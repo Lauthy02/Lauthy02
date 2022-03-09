@@ -47,12 +47,12 @@ ESP
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" alt="Lauthy02 :: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
 </p>
 
 ---
 
-⭐️ [@Lautaro Rojas](https://github.com/Lauthy02)
+⭐️ [@Lauthy02](https://github.com/Lauthy02)
 
 ![Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
