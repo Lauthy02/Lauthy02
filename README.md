@@ -30,10 +30,6 @@ ESP
   <a href="https://t.me/Lauthy_02">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Lautaro Rojas's Telegram" height="30" width="30">
   </a>
-  
-  <a href="lautaro.rojas02@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lautaro Rojas's Gmail" height="30" width="30">
-  </a>
 </p>
 <p align="center">
   <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
