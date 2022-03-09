@@ -46,7 +46,10 @@ ESP
   <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" alt="Lauthy02 :: Profile Stats" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" alt="Lauthy02 :: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
+</p>
 
 ---
 
