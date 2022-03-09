@@ -36,6 +36,10 @@ ESP
   </a>
 </p>
 
+<img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" alt="Lauthy02 :: Profile Stats" /></p>
 
 ---
