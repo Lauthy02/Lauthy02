@@ -36,9 +36,14 @@ ESP
   </a>
 </p>
 <p align="center">
-<img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
-<img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+  <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
+   <img src="http://img.shields.io/badge/-C_Sharp-007ACC?style=flat&logo=csharp&logoColor=white">
+  <img src="http://img.shields.io/badge/-C-4285F4?style=flat&logo=c&logoColor=white">
+  <img src="http://img.shields.io/badge/-C_++-4AD1F5?style=flat&logo=cplusplus&logoColor=white">
+  <img src="http://img.shields.io/badge/-COBOL-4285F4?style=flat">
+  <img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
+  <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+  <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" alt="Lauthy02 :: Profile Stats" /></p>
