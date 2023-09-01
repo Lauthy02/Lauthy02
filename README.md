@@ -11,7 +11,7 @@
       asdasdasd
     </div>
 </div>
-<!-- ----- Tecnologías ----- -->
+<!-- ----- Habilidades ----- -->
 <div align="left">
   <h3>Habilidades</h3>
   <h4>Lenguajes de programación</h4>
@@ -54,21 +54,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" haight="40"/>
     </div>
 </div>
-
-<p align="center">
-  <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
-  <img src="http://img.shields.io/badge/-C_Sharp-007ACC?style=flat&logo=csharp&logoColor=white">
-  <img src="http://img.shields.io/badge/-C-4285F4?style=flat&logo=c&logoColor=white">
-  <img src="http://img.shields.io/badge/-C_++-4AD1F5?style=flat&logo=cplusplus&logoColor=white">
-  <img src="http://img.shields.io/badge/-Python-4285F4?style=flat">
-  <img src="http://img.shields.io/badge/-COBOL-4285F4?style=flat">
-  <img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
-  <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-  <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
-</p>
-
 <!-- ----- Estadísticas ----- -->
----
 <div align="left">
   <h3>Estadísticas</h3>
   <div>
@@ -81,7 +67,6 @@
 </div>
 
 <!-- ----- Contacto ----- -->
----
 <div align="left">
   <h3>Contacto</h3>
   <div>
@@ -100,9 +85,21 @@
   </div>
 </div>
 
-
 <!--  COMENTARIOS 
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
 ![Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
+
+<p align="center">
+  <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
+  <img src="http://img.shields.io/badge/-C_Sharp-007ACC?style=flat&logo=csharp&logoColor=white">
+  <img src="http://img.shields.io/badge/-C-4285F4?style=flat&logo=c&logoColor=white">
+  <img src="http://img.shields.io/badge/-C_++-4AD1F5?style=flat&logo=cplusplus&logoColor=white">
+  <img src="http://img.shields.io/badge/-Python-4285F4?style=flat">
+  <img src="http://img.shields.io/badge/-COBOL-4285F4?style=flat">
+  <img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
+  <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+  <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
+</p>
+
 -->
 
