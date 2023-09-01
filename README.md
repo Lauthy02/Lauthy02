@@ -60,7 +60,9 @@
   <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
   </a>
-      
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lautaro Rojas's Gmail" height="30" width="30">
+  </a>
   <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Lautaro Rojas's WhatsApp" height="30" width="30">
   </a>
