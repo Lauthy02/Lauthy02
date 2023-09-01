@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
   <h1 align="center">Lautaro Rojas</h1>
-  <h3 align="center">Estudainte de Igeniería en Sistemas y Desarrollador Backend</h3>
+  <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
 
 <!-- ----- Sobre mí ----- -->
@@ -50,13 +50,12 @@
 
 <!-- ----- Contacto ----- -->
 ---
-
 <div align="left">
   <h3>Contacto</h3>
   <div>
     <p align="center">
   <a href="https://linkedin.com/in/lautaro-rojas">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/18413052/lautaro-rojas">
