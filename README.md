@@ -1,11 +1,11 @@
-//----- Presentación -----
+<!-- ----- Presentación ----- -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
   <h1 align="center">Lautaro Rojas</h1>
   <h3 align="center">Estudainte de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
 
-//----- Sobre mí -----
+<!-- ----- Sobre mí ----- -->
 ---
 ### Sobre mí
 - 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas. También les dejo mi CV en el repositorio: https://github.com/Lauthy02/Lauthy02
 ---
-//----- Tecnologías -----
+<!-- ----- Tecnologías ----- -->
 <div align="left">
   <h3>Tecnologías</h3>
   <div>
@@ -23,10 +23,10 @@
   </div>
 </div>
 ---
-//----- Estadísticas -----
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-//----- Contacto -----
+<!-- ----- Estadísticas ----- -->
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<!-- ----- Contacto ----- -->
 
 <h1></h1>
 
