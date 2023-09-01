@@ -47,12 +47,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
   </div>
 </div>
----
-<!-- ----- Contacto ----- -->
 
-<!-- 
+<!-- ----- Contacto ----- -->
 ---
-### Contacto
 <p align="center">
   <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
@@ -70,10 +67,9 @@
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Lautaro Rojas's Telegram" height="30" width="30">
   </a>
 </p>
----
 
+<!--  COMENTARIOS 
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
-
 ![Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
 -->
 
