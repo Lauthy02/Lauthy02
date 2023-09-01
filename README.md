@@ -4,11 +4,11 @@
   <h1 align="center">Lautaro Rojas</h1>
   <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
-
 <!-- ----- Sobre mí ----- -->
 ---
 ### Sobre mí
 - 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
+- Soy una persona proactiva
 - 👀 Estoy interesado en aprender en profundad C# y en como puedo aplicarlo en un puesto de trabajo que requiera de habilidades de programación.
 - 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
 - 💞️ I’m looking to collaborate on ...
