@@ -12,6 +12,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas. También les dejo mi CV en el repositorio: https://github.com/Lauthy02/Lauthy02
 ---
+
+---
+### Tecnologías: 
+<div align="left">
+  <h3>Tecnologías</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="js" width="40" haight="40"/>
+  </div>
+</div>
+---
 <h1></h1>
 
 <p align="center">
