@@ -34,6 +34,7 @@
   <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
   <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
 </p>
+---
 <!-- ----- Estadísticas ----- -->
 <div align="left">
   <h3>Estadísticas</h3>
