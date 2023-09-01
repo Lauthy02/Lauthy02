@@ -35,6 +35,7 @@
   <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
 </p>
 <!-- ----- Estadísticas ----- -->
+---
 ### Estadísticas
 <p align="center">
   
@@ -43,7 +44,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
 </p>
+---
 <!-- ----- Contacto ----- -->
+---
 ### Contacto
 <p align="center">
   <a href="https://linkedin.com/in/lautaro-rojas">
@@ -62,7 +65,6 @@
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Lautaro Rojas's Telegram" height="30" width="30">
   </a>
 </p>
-
 ---
 
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
