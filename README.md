@@ -45,16 +45,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
   </div>
 </div>
-### Estadísticas
-<p align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
-</p>
----
 <!-- ----- Contacto ----- -->
+
+<!-- 
 ---
 ### Contacto
 <p align="center">
@@ -79,3 +72,5 @@
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
 
 ![Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
+-->
+
