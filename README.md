@@ -35,10 +35,10 @@
   <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
 </p>
 <!-- ----- Estadísticas ----- -->
-
+<p align="center">
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
 </p>
