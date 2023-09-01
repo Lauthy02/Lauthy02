@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
+  <h1 align="center">Lautaro Rojas</h1>
+  <h3 align="center">Soy estudainte de Igeniería en Sistemas y busco empezar mi carrera como desarrollador Backend</h3>
 </div>
 
 
