@@ -20,6 +20,8 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" haight="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="Node" width="40" haight="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mon" width="40" haight="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJs" alt="ExJs" width="40" haight="40"/>
   </div>
 </div>
 
@@ -57,18 +59,11 @@
   <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
   </a>
-
-  <a href="https://stackoverflow.com/users/18413052/lautaro-rojas">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Lautaro Rojas's Stack Overflow Profile" height="30" width="30">
-  </a>
-  
+      
   <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Lautaro Rojas's WhatsApp" height="30" width="30">
   </a>
   
-  <a href="https://t.me/Lauthy_02">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Lautaro Rojas's Telegram" height="30" width="30">
-  </a>
 </p>
   </div>
 </div>
