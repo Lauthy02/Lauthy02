@@ -22,14 +22,27 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="Node" width="40" haight="40"/>
   </div>
 </div>
----
+
+<p align="center">
+  <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
+  <img src="http://img.shields.io/badge/-C_Sharp-007ACC?style=flat&logo=csharp&logoColor=white">
+  <img src="http://img.shields.io/badge/-C-4285F4?style=flat&logo=c&logoColor=white">
+  <img src="http://img.shields.io/badge/-C_++-4AD1F5?style=flat&logo=cplusplus&logoColor=white">
+  <img src="http://img.shields.io/badge/-Python-4285F4?style=flat">
+  <img src="http://img.shields.io/badge/-COBOL-4285F4?style=flat">
+  <img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
+  <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+  <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
+</p>
 <!-- ----- Estadísticas ----- -->
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
+</p>
 <!-- ----- Contacto ----- -->
-
-<h1></h1>
-
 <p align="center">
   <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
@@ -46,22 +59,6 @@
   <a href="https://t.me/Lauthy_02">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Lautaro Rojas's Telegram" height="30" width="30">
   </a>
-</p>
-<p align="center">
-  <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
-  <img src="http://img.shields.io/badge/-C_Sharp-007ACC?style=flat&logo=csharp&logoColor=white">
-  <img src="http://img.shields.io/badge/-C-4285F4?style=flat&logo=c&logoColor=white">
-  <img src="http://img.shields.io/badge/-C_++-4AD1F5?style=flat&logo=cplusplus&logoColor=white">
-  <img src="http://img.shields.io/badge/-Python-4285F4?style=flat">
-  <img src="http://img.shields.io/badge/-COBOL-4285F4?style=flat">
-  <img src="http://img.shields.io/badge/-Github-000000? style=flat& logo=github&logo Color=FFFFFF">
-  <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-  <img src="http://img.shields.io/badge/-Office-red?style=flat&logo=microsoftoffice&logoColor=white"> 
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
 </p>
 
 ---
