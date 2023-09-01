@@ -5,15 +5,12 @@
   <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
 <!-- ----- Sobre mí ----- -->
----
-### Sobre mí
-- 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
-- Soy una persona proactiva
-- 👀 Estoy interesado en aprender en profundad C# y en como puedo aplicarlo en un puesto de trabajo que requiera de habilidades de programación.
-- 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
-- 💞️ I’m looking to collaborate on ...
-- 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas. También les dejo mi CV en el repositorio: https://github.com/Lauthy02/Lauthy02
----
+<div>
+  <h3>Sobre mí</h3>
+    <div>
+      asdasdasd
+    </div>
+</div>
 <!-- ----- Tecnologías ----- -->
 <div align="left">
   <h3>Habilidades</h3>
