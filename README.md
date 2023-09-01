@@ -18,14 +18,44 @@
 <div align="left">
   <h3>Habilidades</h3>
   <h4>Lenguajes de programación</h4>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="c++" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="c#" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="PY" width="40" haight="40"/>
+    </div>
+  <h4>Desarrollo Backend</h4>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="Node" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJs" alt="ExJs" width="40" haight="40"/>
+    </div>      
   <h4>Desarrollo Frontend</h4>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" haight="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="Node" width="40" haight="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mon" width="40" haight="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJs" alt="ExJs" width="40" haight="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" haight="40"/>
-  </div>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" haight="40"/>
+    </div>
+  <h4>Bases de datos</h4>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="MSQLServer" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mon" width="40" haight="40"/>
+    </div>
+  <h4>Framework</h4>
+    <div>
+      <!-- <img src="" title="DOT.NET" alt="DotNet" width="40" haight="40"/> -->
+    </div>
+  <h4>Testing</h4>
+    <div>
+      <img src="" title="Cypress" alt="Cypress" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" haight="40"/>
+      <img src="" title="Postman" alt="Postman" width="40" haight="40"/>
+    </div>
+  <h4>Otros</h4>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" haight="40"/>
+      <img src="" title="SQL" alt="sql" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" haight="40"/>
+    </div>
 </div>
 
 <p align="center">
@@ -73,6 +103,11 @@
   </div>
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauthy02&show_icons=true&locale=en&layout=compact" alt="lauthy02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauthy02&show_icons=true&locale=en" alt="lauthy02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauthy02&" alt="lauthy02" /></p>
 
 <!--  COMENTARIOS 
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
