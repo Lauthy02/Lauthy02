@@ -79,7 +79,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauthy02&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauthy02&show_icons=true&locale=en&layout=compact" alt="lauthy02" />
   </div>
 </div>
 
@@ -103,11 +103,6 @@
   </div>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauthy02&show_icons=true&locale=en&layout=compact" alt="lauthy02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauthy02&show_icons=true&locale=en" alt="lauthy02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauthy02&" alt="lauthy02" /></p>
 
 <!--  COMENTARIOS 
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
