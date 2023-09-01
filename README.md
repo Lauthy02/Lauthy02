@@ -5,7 +5,7 @@
   <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
 <!-- ----- Sobre mí ----- -->
-
+---
 ### Sobre mí
 - 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
 - Soy una persona proactiva
