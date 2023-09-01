@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
   <h1 align="center">Lautaro Rojas</h1>
-  <h3 align="center">Soy estudainte de Igeniería en Sistemas y busco empezar mi carrera como desarrollador Backend</h3>
+  <h3 align="center">Estudainte de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
 
 ---
-### Sobre mí: 
+### Sobre mí
 - 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
 - 👀 Estoy interesado en aprender en profundad C# y en como puedo aplicarlo en un puesto de trabajo que requiera de habilidades de programación.
 - 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
