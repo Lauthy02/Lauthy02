@@ -4,13 +4,17 @@
   <h1 align="center">Lautaro Rojas</h1>
   <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
+
 <!-- ----- Sobre mí ----- -->
-<div>
-  <h3>Sobre mí</h3>
-    <div>
-      asdasdasd
-    </div>
-</div>
+---
+### Sobre mí
+- 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
+- 👀 Estoy interesado en aprender en profundad C# y en como puedo aplicarlo en un puesto de trabajo que requiera de habilidades de programación.
+- 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
+- 💞️ I’m looking to collaborate on ...
+- 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas. También les dejo mi CV en el repositorio: https://github.com/Lauthy02/Lauthy02
+---
+
 <!-- ----- Habilidades ----- -->
 <div align="left">
   <h3>Habilidades</h3>
@@ -54,7 +58,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" haight="40"/>
     </div>
 </div>
+
 <!-- ----- Estadísticas ----- -->
+---
 <div align="left">
   <h3>Estadísticas</h3>
   <div>
@@ -67,6 +73,7 @@
 </div>
 
 <!-- ----- Contacto ----- -->
+---
 <div align="left">
   <h3>Contacto</h3>
   <div>
@@ -85,10 +92,10 @@
   </div>
 </div>
 
-<!--  COMENTARIOS 
 ⭐️ [@Lauthy02](https://github.com/Lauthy02)
-![Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
+<!--  COMENTARIOS 
 
+![Profile views](https://gpvc.arturio.dev/Lauthy02)  <img src="https://img.shields.io/github/followers/Lauthy02?label=Follow" style=" float:left, margin-right:10px" />
 <p align="center">
   <img src="http://img.shields.io/badge/-Visual_Studio-007ACC?style=flat&logo=VisualStudio&logoColor=white">
   <img src="http://img.shields.io/badge/-C_Sharp-007ACC?style=flat&logo=csharp&logoColor=white">
@@ -102,4 +109,3 @@
 </p>
 
 -->
-
