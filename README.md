@@ -8,11 +8,9 @@
 <!-- ----- Sobre mí ----- -->
 ---
 ### Sobre mí
-- 👋 Hola, soy @Lauthy02 o me pueden llamar Lautaro Rojas!!
-- 👀 Estoy interesado en aprender en profundad C# y en como puedo aplicarlo en un puesto de trabajo que requiera de habilidades de programación.
-- 🌱 Actualmente estoy aprendiendo C# y estudio Ingeniería en Sistemas en la Universidad Abierta Interamericana (UAI).
-- 💞️ I’m looking to collaborate on ...
-- 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com o con mi Linkedin: www.linkedin.com/in/lautaro-rojas. También les dejo mi CV en el repositorio: https://github.com/Lauthy02/Lauthy02
+Programador backend dedicado y dinámico con experiencia en desarrollo en .NET con C#. Especializado en el ecosistema de .NET Framework, he desarrollado diversas aplicaciones de WindowsForms.
+Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta y ampliar mis conocimientos. Motivado, buscando desarrollar mis habilidades y expandirlas, poniendo en práctica mis conocimientos universitarios, al igual que ir creciendo gradualmente en el mundo IT.
+- 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com
 ---
 
 <!-- ----- Habilidades ----- -->
@@ -46,7 +44,7 @@
   <h4>Framework</h4>
     <div>
       <!-- <img src="" title="DOT.NET" alt="DotNet" width="40" haight="40"/> -->
-      <!-- <img src="" title=".NET Framework" alt=".Net" width="40" haight="40"/> -->
+      <img src="" title=".NET Framework" alt=".Net" width="40" haight="40"/>
     </div>
   <h4>Testing</h4>
     <div>
