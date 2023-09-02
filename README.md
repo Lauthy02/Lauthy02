@@ -10,7 +10,7 @@
 ### Sobre mí
 Programador backend dedicado y dinámico con experiencia en desarrollo en .NET con C#. Especializado en el ecosistema de .NET Framework, he desarrollado diversas aplicaciones de WindowsForms.
 Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta y ampliar mis conocimientos. Motivado, buscando desarrollar mis habilidades y expandirlas, poniendo en práctica mis conocimientos universitarios, al igual que ir creciendo gradualmente en el mundo IT.
-- 📫 Me pueden encontrar con mi correo: lautaro.rojas02@gmail.com
+- 📫 Me pueden encontrar con mi correo: lautarorojas02.job@gmail.com
 ---
 
 <!-- ----- Habilidades ----- -->
@@ -75,8 +75,9 @@ Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que apr
   <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
   </a>
-  <a href="lautaro.rojas02@gmail.com">
+  <a href="mailto:lautarorojas02.job@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lautaro Rojas's Gmail" height="30" width="30">
+    <!-- lautarorojas02.job@gmail.com -->
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Lautaro Rojas's WhatsApp" height="30" width="30">
