@@ -34,6 +34,9 @@
   <h4>Desarrollo Frontend</h4>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" haight="40"/>
+      <!-- <img src="" title="CSS3" alt="css3" width="40" haight="40"/> -->
+      <!-- <img src="" title="React" alt="react" width="40" haight="40"/> -->
+      <!-- <img src="" title="Angular" alt="angular" width="40" haight="40"/> -->
     </div>
   <h4>Bases de datos</h4>
     <div>
@@ -43,18 +46,23 @@
   <h4>Framework</h4>
     <div>
       <!-- <img src="" title="DOT.NET" alt="DotNet" width="40" haight="40"/> -->
-      <!-- <img src="" title=".NET Framework" alt="DotNet" width="40" haight="40"/> -->
+      <!-- <img src="" title=".NET Framework" alt=".Net" width="40" haight="40"/> -->
     </div>
   <h4>Testing</h4>
     <div>
-      <img src="" title="Cypress" alt="Cypress" width="40" haight="40"/>
+      <!-- <img src="" title="Cypress" alt="Cypress" width="40" haight="40"/> -->
       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" haight="40"/>
-      <img src="" title="Postman" alt="Postman" width="40" haight="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" haight="40"/>
+    </div>
+  <h4>Herramientas</h4>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSC" width="40" haight="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" alt="VS2022" width="40" haight="40"/>
     </div>
   <h4>Otros</h4>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" haight="40"/>
-      <img src="" title="SQL" alt="sql" width="40" haight="40"/>
+      <!-- <img src="" title="SQL" alt="sql" width="40" haight="40"/> -->
       <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" haight="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" haight="40"/>
     </div>
@@ -69,7 +77,7 @@
   <a href="https://linkedin.com/in/lautaro-rojas">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lautaro Rojas's LinkedIn Profile" height="30" width="30">
   </a>
-  <a href="">
+  <a href="lautaro.rojas02@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lautaro Rojas's Gmail" height="30" width="30">
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
