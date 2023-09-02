@@ -1,7 +1,7 @@
 <!-- ----- Presentación ----- -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
-  <h1 align="center">Lautaro Rojas</h1>
+  <h1 align="center">¡Hola! Mi nombre es Lautaro Rojas</h1>
   <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
 </div>
 
@@ -43,6 +43,7 @@
   <h4>Framework</h4>
     <div>
       <!-- <img src="" title="DOT.NET" alt="DotNet" width="40" haight="40"/> -->
+      <!-- <img src="" title=".NET Framework" alt="DotNet" width="40" haight="40"/> -->
     </div>
   <h4>Testing</h4>
     <div>
@@ -57,19 +58,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" haight="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" haight="40"/>
     </div>
-</div>
-
-<!-- ----- Estadísticas ----- -->
----
-<div align="left">
-  <h3>Estadísticas</h3>
-  <div>
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauthy02&show_icons=true&locale=en&layout=compact" alt="lauthy02" />
-  </div>
 </div>
 
 <!-- ----- Contacto ----- -->
@@ -87,7 +75,6 @@
   <a href="https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Lautaro Rojas's WhatsApp" height="30" width="30">
   </a>
-  
 </p>
   </div>
 </div>
@@ -122,5 +109,18 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+<!-- ----- Estadísticas ----- --
+---
+<div align="left">
+  <h3>Estadísticas</h3>
+  <div>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lauthy02&theme=neon-dark&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauthy02&show_icons=true&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauthy02&show_icons=true&locale=en&layout=compact" alt="lauthy02" />
+  </div>
+</div>
 
 -->
