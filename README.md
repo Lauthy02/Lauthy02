@@ -10,7 +10,6 @@
 ### Sobre mí
 Programador backend dedicado y dinámico con experiencia en desarrollo en .NET con C#. Especializado en el ecosistema de .NET Framework, he desarrollado diversas aplicaciones de WindowsForms.
 Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta y ampliar mis conocimientos. Motivado, buscando desarrollar mis habilidades y expandirlas, poniendo en práctica mis conocimientos universitarios, al igual que ir creciendo gradualmente en el mundo IT.
-- 📫 Me pueden encontrar con mi correo: lautarorojas02.job@gmail.com
 ---
 
 <!-- ----- Habilidades ----- -->
