@@ -2,15 +2,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
   <h1 align="center">¡Hola! Mi nombre es Lautaro Rojas</h1>
-  <h3 align="center">Estudiante de Igeniería en Sistemas y Desarrollador Backend</h3>
+  <h3 align="center">Estudiante de Igeniería en Sistemas</h3>
 </div>
 
 <!-- ----- Sobre mí ----- -->
 ---
 ### Sobre mí
 <body>
-  Programador backend dedicado y dinámico con experiencia en desarrollo en .NET con C#. Especializado en el ecosistema de .NET Framework, he desarrollado diversas aplicaciones de WindowsForms.
-Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta y ampliar mis conocimientos. Motivado, buscando desarrollar mis habilidades y expandirlas, poniendo en práctica mis conocimientos universitarios, al igual que ir creciendo gradualmente en el mundo IT.
+Estudiante dedicado y dinámico con experiencia en desarrollo en .NET con C#. Especializado en el ecosistema de .NET Framework, he desarrollado diversas aplicaciones de WindowsForms. Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta. Motivado, buscando desarrollar mis habilidades y expandirlas, poniendo en práctica mis conocimientos universitarios, al igual que ir creciendo gradualmente en el mundo IT.
 </body>
 
 ---
