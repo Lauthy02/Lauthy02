@@ -9,7 +9,8 @@
 ---
 ### Sobre mí
 <body>
-Estudiante dedicado y dinámico con experiencia en desarrollo en .NET con C#. Especializado en el ecosistema de .NET Framework, he desarrollado diversas aplicaciones de WindowsForms. Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta. Motivado, buscando desarrollar mis habilidades y expandirlas, poniendo en práctica mis conocimientos universitarios, al igual que ir creciendo gradualmente en el mundo IT.
+Estudiante con experiencia en desarrollo de aplicaciones de WindowsForms en .NET Framework con C# y en el análisis del negocio para la identificación de requisitos, casos de uso, procesos de negocio y los diagramas correspondientes a la documentación.
+Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta y ampliar mis conocimientos. Busco desarrollar mis habilidades y expandirlas poniendo en práctica mis conocimientos e ir creciendo en el mundo IT.
 </body>
 
 ---
