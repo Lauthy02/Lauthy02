@@ -2,15 +2,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN1djBoOGk0MmF4bjJ4aGduOHN6aTVvb3UyZGUxaG4wcXVyMWh0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" />
   <h1 align="center">¡Hola! Mi nombre es Lautaro Rojas</h1>
-  <h3 align="center">Estudiante de Igeniería en Sistemas</h3>
+  <h3 align="center">Analista de Sistemas Universitario | Coordinador de Poryecto IT | Desarrollador Backend .NET</h3>
 </div>
 
 <!-- ----- Sobre mí ----- -->
 ---
 ### Sobre mí
 <body>
-Estudiante con experiencia en desarrollo de aplicaciones de WindowsForms en .NET Framework con C# y en el análisis del negocio para la identificación de requisitos, casos de uso, procesos de negocio y los diagramas correspondientes a la documentación.
-Siempre estoy abierto a aprender lo mayor posible de los pares, al igual que aprender por mi cuenta y ampliar mis conocimientos. Busco desarrollar mis habilidades y expandirlas poniendo en práctica mis conocimientos e ir creciendo en el mundo IT.
+🎯 Soy Analista de Sistemas y futuro Ingeniero en Sistemas Informáticos, con experiencia en programación backend, análisis funcional, testing de software y metodologías ágiles. Mi foco profesional está puesto en sumar valor real a los proyectos mediante la organización, la mejora continua y la comunicación efectiva con todos los actores involucrados.
+
+💻 En mi trabajo actual, lidero la evolución de un sistema crítico, desde la gestión de tickets de mejora y resolución de bugs, hasta la priorización de sprints, el testeo de entregas del proveedor y la generación de reportes funcionales. Además, colaboro con líderes de proyecto, PMs y el equipo de infraestructura, garantizando entregas de calidad y con impacto en los objetivos del negocio.
+
+🚀 Me destaco por ser proactivo, organizado y orientado a resultados. Busco siempre anticiparme, automatizar tareas repetitivas y empujar los procesos para que las cosas avancen con velocidad y solidez.
 </body>
 
 ---
