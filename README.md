@@ -9,11 +9,12 @@
 ---
 ### Sobre mí
 <body>
-🎯 Soy Analista de Sistemas y futuro Ingeniero en Sistemas Informáticos, con experiencia en programación backend, análisis funcional, testing de software y metodologías ágiles. Mi foco profesional está puesto en sumar valor real a los proyectos mediante la organización, la mejora continua y la comunicación efectiva con todos los actores involucrados.
-
-💻 En mi trabajo actual, lidero la evolución de un sistema crítico, desde la gestión de tickets de mejora y resolución de bugs, hasta la priorización de sprints, el testeo de entregas del proveedor y la generación de reportes funcionales. Además, colaboro con líderes de proyecto, PMs y el equipo de infraestructura, garantizando entregas de calidad y con impacto en los objetivos del negocio.
-
-🚀 Me destaco por ser proactivo, organizado y orientado a resultados. Busco siempre anticiparme, automatizar tareas repetitivas y empujar los procesos para que las cosas avancen con velocidad y solidez.
+  
+  🎯 Soy Analista de Sistemas y futuro Ingeniero en Sistemas Informáticos, con experiencia en programación backend, análisis funcional, testing de software y metodologías ágiles. Mi foco profesional está puesto en sumar valor real a los proyectos mediante la organización, la mejora continua y la comunicación efectiva con todos los actores involucrados.
+  
+  💻 En mi trabajo actual, lidero la evolución de un sistema crítico, desde la gestión de tickets de mejora y resolución de bugs, hasta la priorización de sprints, el testeo de entregas del proveedor y la generación de reportes funcionales. Además, colaboro con líderes de proyecto, PMs y el equipo de infraestructura, garantizando entregas de calidad y con impacto en los objetivos del negocio.
+  
+  🚀 Me destaco por ser proactivo, organizado y orientado a resultados. Busco siempre anticiparme, automatizar tareas repetitivas y empujar los procesos para que las cosas avancen con velocidad y solidez.
 </body>
 
 ---
